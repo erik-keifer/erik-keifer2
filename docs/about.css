@@ -166,8 +166,7 @@ body {margin: 0;}
 
 
 
-p {width: 40%;   text-align: justify;
-  text-justify: inter-word; }
+p {width: 40%;}
 
 body {background-color: #f0eeec!important;
     font-family: 'Lato',sans-serif!important;
@@ -186,8 +185,7 @@ div.bgwhite {
 }
 #aboutus {width: 90%;}
 
-p {margin-left: 1%;   text-align: justify;
-  text-justify: inter-word;}
+p {margin-left: 1%; }
 
 a.er {color: #739aaf;}
 
@@ -199,11 +197,9 @@ a.er:hover {color: #BDDAF0;}
 @media only screen and (max-width:760px) 
  {
 
-  p{ width: 100%; margin: 10%;   text-align: justify;
-  text-justify: inter-word; }
+  p{ width: 100%; margin: 10%;  }
 
-  p {margin-left: 1%;  margin-top: 1%; text-align: justify;
-  text-justify: inter-word;}
+  p {margin-left: 1%;}  }
 
 
 
@@ -211,11 +207,9 @@ a.er:hover {color: #BDDAF0;}
 and (min-device-width : 375px) 
 and (max-device-width : 812px) {
 
-  p {width: 100%;  margin: 10%;   text-align: justify;
-  text-justify: inter-word;}
+  p {width: 100%;  margin: 10%;}
 }
-p {margin-left: 1%; margin-top: 1%;   text-align: justify;
-  text-justify: inter-word;}
+p {margin-left: 1%; margin-top: 1%;}
 
 }
 
@@ -223,27 +217,23 @@ p {margin-left: 1%; margin-top: 1%;   text-align: justify;
 and (min-device-width : 414px) 
 and (max-device-width : 736px) {
 
-p {width: 100%; margin: 10%;   text-align: justify;
-  text-justify: inter-word;}
+p {width: 100%; margin: 10%;}
 
-p {margin-left: 1%;   text-align: justify;
-  text-justify: inter-word;} }
+p {margin-left: 1%;} }
 
 @media only screen 
 and (min-device-width : 768px) 
 and (max-device-width : 1024px)
 and (-webkit-min-device-pixel-ratio: 1)  { 
   
-p {width: 100%; margin: 10%;   text-align: justify;
-  text-justify: inter-word;}
+p {width: 100%; margin: 10%;}
 
 p {margin-left: 1%;} }
 
 @media only screen and (max-width:365px) 
  {  
 
- p {width: 100%;   text-align: justify;
-  text-justify: inter-word;}
+ p {width: 100%;}
 
 
 
@@ -261,13 +251,11 @@ body {overflow-x: hidden;}
 
 h2 {white-space: nowrap;} 
 
-h2 {margin-left: 3%;}
+h2 {margin-left: 2%;}
 
 img {width: 90%; }
 img {position: relative; right: -1%;}
 }
-
-
 
 
 
