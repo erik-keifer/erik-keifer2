@@ -166,7 +166,7 @@ body {margin: 0;}
 
 
 
-p {width: 40%;}
+p {width: 40%; }
 
 body {background-color: #f0eeec!important;
     font-family: 'Lato',sans-serif!important;
@@ -185,7 +185,7 @@ div.bgwhite {
 }
 #aboutus {width: 90%;}
 
-p {margin-left: 1%;}
+p {margin-left: 1%; margin-top: 1%;}
 
 a.er {color: #739aaf;}
 
@@ -199,7 +199,7 @@ a.er:hover {color: #BDDAF0;}
 
   p{ width: 100%; margin: 10%;  }
 
-  p {margin-left: 1%;} }
+  p {margin-left: 1%;}  margin-top: 1%;}
 
 
 
