@@ -144,7 +144,8 @@ a {
 p.app {height: 0%; width: 86%; 
        margin: 30px;  padding: 30px;
         display: block; margin: 0 auto; 
-        font-size: large; background-color: #33E0FF;  }
+        font-size: large; background-color: #33E0FF; text-align: justify;
+  text-justify: inter-word;  }
 
 img.cool {height: 300px; background-color: none; display: block;
           width: 400px; margin: 0 auto; }
@@ -250,7 +251,8 @@ nav.hello {margin-left: 36%;}
        margin: 30px;  padding: 30px;
         display: block; margin: 0 auto; 
         font-size: 80%; background-color: #33E0FF;width: 80%;
-    height: 80%; }
+    height: 80%;   text-align: justify;
+  text-justify: inter-word;}
 
  img.cool { background-color: none; display: block;
            margin: 0 auto; width: 90%;
@@ -368,7 +370,8 @@ nav.hello {width: 70%; height: 60%;
 p.app {height: 30%; width: 80%; 
        margin: 30px;  padding: 30px;
         display: block; margin: 0 auto; 
-        font-size: 90%; background-color: #33E0FF;  }
+        font-size: 90%; background-color: #33E0FF;   text-align: justify;
+  text-justify: inter-word; }
 
  img.cool { background-color: none; display: block;
            margin: 0 auto; width: 90%;
@@ -476,7 +479,8 @@ and (max-device-width : 1024px) {
   p.app {height: 30%; width: 80%; 
        margin: 30px;  padding: 30px;
         display: block; margin: 0 auto; 
-        font-size: large; background-color: #33E0FF;  }
+        font-size: large; background-color: #33E0FF;   text-align: justify;
+  text-justify: inter-word; }
 
  img.cool {height: 30%; background-color: none; display: block;
           width: 50%; margin: 0 auto; }
@@ -580,7 +584,8 @@ nav.hello {width: 60%; height: 60%;}
        p.app {height: 0%; width: 100%; 
                margin: 30px;  padding-bottom: 8px;
         display: inline-block; margin: 0 auto; 
-        font-size: 90%; background-color: #33E0FF; margin-left: -1%;  }
+        font-size: 90%; background-color: #33E0FF; margin-left: -1%;   text-align: justify;
+  text-justify: inter-word; }
 
 
  img.cool {height: 30%; background-color: none; display: block;
