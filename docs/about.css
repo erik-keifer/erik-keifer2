@@ -258,6 +258,56 @@ img {position: relative; right: -1%;}
 }
 
 
+img {width: 25%;}
+
+@media only screen and (max-width:320px) 
+ {  
+ 
+ img {  width: 76%;} }
+
+
+
+@media only screen and (max-width:375px) 
+ {  
+ 
+
+
+
+img { width: 75%; } }
+
+
+
+@media only screen and (max-width:414px) 
+ {  
+ img {width: 75%;}
+
+ }
+
+
+@media only screen and (min-width:760px) and (max-width: 780px)
+ {  
+    img {width: 40%;}
+ }
+
+
+@media only screen and (min-width:400px) and (max-width: 460px)
+
+{
+
+
+img {width: 70%;}
+
+
+}
+
+
+
+
+
+
+
+
+
 
 
 
