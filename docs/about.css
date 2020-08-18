@@ -170,14 +170,14 @@ p {width: 40%;}
 
 body {background-color: #f0eeec!important;
     font-family: 'Lato',sans-serif!important;
-    font-size: 17px!important;
+    
      color: #595a5c!important;
     margin: 0;
     padding: 0;
      }
 
 
-p { font-weight: 300; line-height: 140%!important;}
+p { font-weight: 300; line-height: 140%!important; font-size: 17px!important;}
 
 div.bgwhite {
     margin: 12px 0 24px .5%;
