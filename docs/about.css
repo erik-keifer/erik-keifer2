@@ -177,7 +177,8 @@ body {background-color: #f0eeec!important;
      }
 
 
-p { font-weight: 300; line-height: 140%!important; font-size: 17px!important;}
+p { font-weight: 300; line-height: 140%!important;
+    font-size: 17px!important;}
 
 div.bgwhite {
     margin: 12px 0 24px .5%;
@@ -304,17 +305,31 @@ img {width: 70%;}
 
 
 
-
-@media only screen and (min-width:500px) and (max-width: 800px)
+@media only screen and (min-width:700px) and (max-width: 830px)
 
 {
 
-img {width: 50%;}
+p {width: 85%;}
+
+
+
+}
+
+@media only screen and (min-width:832px) and (max-width: 1199px)
+
+{
+
+  p {width: 75%;}
+
+  img {width: 30%;}
  }
 
 
+@media only screen and (min-width:476px) and (max-width: 820px)
 
+{
 
+img {width: 55%;} }
 
 
 
