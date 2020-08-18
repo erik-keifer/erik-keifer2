@@ -178,7 +178,7 @@ body {background-color: #f0eeec!important;
 
 
 p { font-weight: 300; line-height: 140%!important;
-    font-size: 17px!important;}
+    font-size: 17px;}
 
 div.bgwhite {
     margin: 12px 0 24px .5%;
@@ -266,6 +266,7 @@ img {width: 25%;}
 @media only screen and (max-width:320px) 
  {  
  
+
  img {  width: 76%;} }
 
 
@@ -331,9 +332,6 @@ p {width: 85%;}
 
 img {width: 55%;} }
 
-
-
-
 @media only screen and (min-width:280px) and (max-width: 290px)
 
 {
@@ -347,7 +345,6 @@ img {width: 55%;} }
 {  p {    font-size: 90%;}
 
 }
-
 
 
 
