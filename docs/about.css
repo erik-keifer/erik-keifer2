@@ -334,6 +334,19 @@ img {width: 55%;} }
 
 
 
+@media only screen and (min-width:280px) and (max-width: 290px)
+
+{
+
+  p {    font-size: 70%;
+    width: 100%; } }
+
+
+@media only screen and (min-width:400px) and (max-width: 460px)
+
+{  p {    font-size: 90%;}
+
+}
 
 
 
