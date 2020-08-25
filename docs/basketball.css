@@ -362,3 +362,35 @@ p.move {      font-size: 80%; }
  }
 
 
+@media only screen and (min-width:370px) and (max-width: 390px)
+{
+
+  img {margin-left: -15%;}
+}
+
+
+@media only screen and (min-width:400px) and (max-width: 414px)
+{
+    img { margin-left: -15%;}
+}
+
+@media only screen and (min-width:300px) and (max-width: 320px)
+{
+  img {margin-left: -15%;}
+
+}
+
+@media only screen and (min-width:340px) and (max-width: 360px)
+{
+    img {margin-left: -15%;}
+
+}
+
+
+@media only screen and (min-width:440px) and (max-width: 460px)
+{
+
+  img {margin-left: -15%;}
+
+}
+
