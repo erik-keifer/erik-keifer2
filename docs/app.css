@@ -719,6 +719,47 @@ img.cool {height: 60%; background-color: none; display: block;
 }
 
 
+@media only screen and (min-width:270px) and (max-width: 320px)
+ { 
+
+nav.hello {margin-left: 7%;
+    width: 90%;}
+}
+ 
+
+@media only screen and (min-width:270px) and (max-width: 280px)
+ { 
+
+  p.app {
+       width: 90%;
+    position: relative;
+    right: -4%;
+  }
+
+img.cool {
+             width: 100%;
+}
+
+p.grass {     width: 75%;
+    margin-left: 3%;
+ }
+
+img.blue {     width: 90%; }
+
+} 
+
+
+@media only screen and (min-width:310px) and (max-width: 320px)
+ { 
+    p.app {     width: 99%;
+ }
+
+img.cool { width: 90%; }
+
+
+
+}
+
 
 
 
