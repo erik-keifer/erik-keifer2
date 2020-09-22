@@ -342,22 +342,20 @@ img {width: 55%;} }
 
 
 
-
 @media only screen and (min-width: 2000px) and (max-width: 4000px)
 {
-   p {font-size: 160%;}
+   p {font-size: 130%;}
 
    h2 {font-size: 180%;}
+
+  div.bgwhite {height: 1000px;}
+
+  img {position: relative; top: 30px;}
 
 
 
 }
-
-
-
-
-
-
+   
 
 
 
